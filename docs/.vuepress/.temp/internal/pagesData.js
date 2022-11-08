@@ -15,28 +15,6 @@ export const pagesData = {
   "v-6580009e": () => import(/* webpackChunkName: "v-6580009e" */"/Users/huangjiabao/GitHub/WebSite/ShuaiShao20010902.github.io/docs/.vuepress/.temp/pages/1v1/08-LionGuo/02-Homework-Problem-2-Arctic-Ice.html.js").then(({ data }) => data),
   // path: /1v1/08-LionGuo/03-Homework-Problem-3-Finding-an-exoplanet.html
   "v-878260da": () => import(/* webpackChunkName: "v-878260da" */"/Users/huangjiabao/GitHub/WebSite/ShuaiShao20010902.github.io/docs/.vuepress/.temp/pages/1v1/08-LionGuo/03-Homework-Problem-3-Finding-an-exoplanet.html.js").then(({ data }) => data),
-  // path: /1v1/06-KAI/01-Assignment-1-Unix.html
-  "v-109aaa4c": () => import(/* webpackChunkName: "v-109aaa4c" */"/Users/huangjiabao/GitHub/WebSite/ShuaiShao20010902.github.io/docs/.vuepress/.temp/pages/1v1/06-KAI/01-Assignment-1-Unix.html.js").then(({ data }) => data),
-  // path: /1v1/06-KAI/02-Part-1-Birth-Date-Application-30-pts.html
-  "v-ab7adfc4": () => import(/* webpackChunkName: "v-ab7adfc4" */"/Users/huangjiabao/GitHub/WebSite/ShuaiShao20010902.github.io/docs/.vuepress/.temp/pages/1v1/06-KAI/02-Part-1-Birth-Date-Application-30-pts.html.js").then(({ data }) => data),
-  // path: /1v1/06-KAI/03-Mac-Windows%E5%91%BD%E4%BB%A4%E8%A1%8C%E7%BC%96%E5%86%99Java.html
-  "v-27863aaa": () => import(/* webpackChunkName: "v-27863aaa" */"/Users/huangjiabao/GitHub/WebSite/ShuaiShao20010902.github.io/docs/.vuepress/.temp/pages/1v1/06-KAI/03-Mac-Windows命令行编写Java.html.js").then(({ data }) => data),
-  // path: /1v1/06-KAI/04-Assignment2-HTML.html
-  "v-1951ee24": () => import(/* webpackChunkName: "v-1951ee24" */"/Users/huangjiabao/GitHub/WebSite/ShuaiShao20010902.github.io/docs/.vuepress/.temp/pages/1v1/06-KAI/04-Assignment2-HTML.html.js").then(({ data }) => data),
-  // path: /1v1/06-KAI/05-Assignment3-CSS.html
-  "v-799167be": () => import(/* webpackChunkName: "v-799167be" */"/Users/huangjiabao/GitHub/WebSite/ShuaiShao20010902.github.io/docs/.vuepress/.temp/pages/1v1/06-KAI/05-Assignment3-CSS.html.js").then(({ data }) => data),
-  // path: /1v1/06-KAI/06-Weaving-a-Kilim-Carpet-Application.html
-  "v-c0397314": () => import(/* webpackChunkName: "v-c0397314" */"/Users/huangjiabao/GitHub/WebSite/ShuaiShao20010902.github.io/docs/.vuepress/.temp/pages/1v1/06-KAI/06-Weaving-a-Kilim-Carpet-Application.html.js").then(({ data }) => data),
-  // path: /1v1/06-KAI/07-Assignment-3-java.html
-  "v-7524c95c": () => import(/* webpackChunkName: "v-7524c95c" */"/Users/huangjiabao/GitHub/WebSite/ShuaiShao20010902.github.io/docs/.vuepress/.temp/pages/1v1/06-KAI/07-Assignment-3-java.html.js").then(({ data }) => data),
-  // path: /1v1/06-KAI/08-Assignment4-Raster-Graphics.html
-  "v-d0e69a7c": () => import(/* webpackChunkName: "v-d0e69a7c" */"/Users/huangjiabao/GitHub/WebSite/ShuaiShao20010902.github.io/docs/.vuepress/.temp/pages/1v1/06-KAI/08-Assignment4-Raster-Graphics.html.js").then(({ data }) => data),
-  // path: /1v1/06-KAI/09-Assignment5-Vector-Graphics.html
-  "v-9210ca74": () => import(/* webpackChunkName: "v-9210ca74" */"/Users/huangjiabao/GitHub/WebSite/ShuaiShao20010902.github.io/docs/.vuepress/.temp/pages/1v1/06-KAI/09-Assignment5-Vector-Graphics.html.js").then(({ data }) => data),
-  // path: /1v1/06-KAI/10-Assignment4-Hangman-Game.html
-  "v-6d4d2a75": () => import(/* webpackChunkName: "v-6d4d2a75" */"/Users/huangjiabao/GitHub/WebSite/ShuaiShao20010902.github.io/docs/.vuepress/.temp/pages/1v1/06-KAI/10-Assignment4-Hangman-Game.html.js").then(({ data }) => data),
-  // path: /1v1/06-KAI/
-  "v-09b28307": () => import(/* webpackChunkName: "v-09b28307" */"/Users/huangjiabao/GitHub/WebSite/ShuaiShao20010902.github.io/docs/.vuepress/.temp/pages/1v1/06-KAI/index.html.js").then(({ data }) => data),
   // path: /1v1/05-Patrick/01-CITS1401-Computational-Thinking-with-Python.html
   "v-553e8d47": () => import(/* webpackChunkName: "v-553e8d47" */"/Users/huangjiabao/GitHub/WebSite/ShuaiShao20010902.github.io/docs/.vuepress/.temp/pages/1v1/05-Patrick/01-CITS1401-Computational-Thinking-with-Python.html.js").then(({ data }) => data),
   // path: /1v1/05-Patrick/02-CS-shaoshuai-Python-cs.html

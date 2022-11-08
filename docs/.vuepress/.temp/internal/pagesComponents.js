@@ -23,16 +23,12 @@ export const pagesComponents = {
   "v-ab7adfc4": defineAsyncComponent(() => import(/* webpackChunkName: "v-ab7adfc4" */"/Users/huangjiabao/GitHub/WebSite/ShuaiShao20010902.github.io/docs/.vuepress/.temp/pages/1v1/06-KAI/02-Part-1-Birth-Date-Application-30-pts.html.vue")),
   // path: /1v1/06-KAI/03-Mac-Windows%E5%91%BD%E4%BB%A4%E8%A1%8C%E7%BC%96%E5%86%99Java.html
   "v-27863aaa": defineAsyncComponent(() => import(/* webpackChunkName: "v-27863aaa" */"/Users/huangjiabao/GitHub/WebSite/ShuaiShao20010902.github.io/docs/.vuepress/.temp/pages/1v1/06-KAI/03-Mac-Windows命令行编写Java.html.vue")),
-  // path: /1v1/06-KAI/04-Assignment2-HTML.html
-  "v-1951ee24": defineAsyncComponent(() => import(/* webpackChunkName: "v-1951ee24" */"/Users/huangjiabao/GitHub/WebSite/ShuaiShao20010902.github.io/docs/.vuepress/.temp/pages/1v1/06-KAI/04-Assignment2-HTML.html.vue")),
   // path: /1v1/06-KAI/05-Assignment3-CSS.html
   "v-799167be": defineAsyncComponent(() => import(/* webpackChunkName: "v-799167be" */"/Users/huangjiabao/GitHub/WebSite/ShuaiShao20010902.github.io/docs/.vuepress/.temp/pages/1v1/06-KAI/05-Assignment3-CSS.html.vue")),
   // path: /1v1/06-KAI/06-Weaving-a-Kilim-Carpet-Application.html
   "v-c0397314": defineAsyncComponent(() => import(/* webpackChunkName: "v-c0397314" */"/Users/huangjiabao/GitHub/WebSite/ShuaiShao20010902.github.io/docs/.vuepress/.temp/pages/1v1/06-KAI/06-Weaving-a-Kilim-Carpet-Application.html.vue")),
   // path: /1v1/06-KAI/07-Assignment-3-java.html
   "v-7524c95c": defineAsyncComponent(() => import(/* webpackChunkName: "v-7524c95c" */"/Users/huangjiabao/GitHub/WebSite/ShuaiShao20010902.github.io/docs/.vuepress/.temp/pages/1v1/06-KAI/07-Assignment-3-java.html.vue")),
-  // path: /1v1/06-KAI/08-Assignment4-Raster-Graphics.html
-  "v-d0e69a7c": defineAsyncComponent(() => import(/* webpackChunkName: "v-d0e69a7c" */"/Users/huangjiabao/GitHub/WebSite/ShuaiShao20010902.github.io/docs/.vuepress/.temp/pages/1v1/06-KAI/08-Assignment4-Raster-Graphics.html.vue")),
   // path: /1v1/06-KAI/09-Assignment5-Vector-Graphics.html
   "v-9210ca74": defineAsyncComponent(() => import(/* webpackChunkName: "v-9210ca74" */"/Users/huangjiabao/GitHub/WebSite/ShuaiShao20010902.github.io/docs/.vuepress/.temp/pages/1v1/06-KAI/09-Assignment5-Vector-Graphics.html.vue")),
   // path: /1v1/06-KAI/10-Assignment4-Hangman-Game.html
@@ -334,5 +330,8 @@ export const pagesComponents = {
   // path: /05-Patrick/01-CITS1401-Computational-Thinking-with-Python.html
   "v-14686dc4": defineAsyncComponent(() => import(/* webpackChunkName: "v-14686dc4" */"/Users/huangjiabao/GitHub/WebSite/ShuaiShao20010902.github.io/docs/.vuepress/.temp/pages/05-Patrick/01-CITS1401-Computational-Thinking-with-Python.html.vue")),
   // path: /05-Patrick/03-CITS1401-Computational-Thinking-wit-Python.html
+  "v-5e195746": defineAsyncComponent(() => import(/* webpackChunkName: "v-5e195746" */"/Users/huangjiabao/GitHub/WebSite/ShuaiShao20010902.github.io/docs/.vuepress/.temp/pages/05-Patrick/03-CITS1401-Computational-Thinking-wit-Python.html.vue")),
+}
+ing-wit-Python.html
   "v-5e195746": defineAsyncComponent(() => import(/* webpackChunkName: "v-5e195746" */"/Users/huangjiabao/GitHub/WebSite/ShuaiShao20010902.github.io/docs/.vuepress/.temp/pages/05-Patrick/03-CITS1401-Computational-Thinking-wit-Python.html.vue")),
 }
