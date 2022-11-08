@@ -3,12 +3,6 @@ export const pagesData = {
   "v-8daa1a0e": () => import(/* webpackChunkName: "v-8daa1a0e" */"/Users/huangjiabao/GitHub/WebSite/ShuaiShao20010902.github.io/docs/.vuepress/.temp/pages/index.html.js").then(({ data }) => data),
   // path: /archives/491.html
   "v-69c1cc92": () => import(/* webpackChunkName: "v-69c1cc92" */"/Users/huangjiabao/GitHub/WebSite/ShuaiShao20010902.github.io/docs/.vuepress/.temp/pages/archives/491.html.js").then(({ data }) => data),
-  // path: /1v1/07-AJuN/01-W14-Worksheet-14-File-IO-and-CSV-Files.html
-  "v-abb219f8": () => import(/* webpackChunkName: "v-abb219f8" */"/Users/huangjiabao/GitHub/WebSite/ShuaiShao20010902.github.io/docs/.vuepress/.temp/pages/1v1/07-AJuN/01-W14-Worksheet-14-File-IO-and-CSV-Files.html.js").then(({ data }) => data),
-  // path: /1v1/07-AJuN/02-Wugs.html
-  "v-0139b2a7": () => import(/* webpackChunkName: "v-0139b2a7" */"/Users/huangjiabao/GitHub/WebSite/ShuaiShao20010902.github.io/docs/.vuepress/.temp/pages/1v1/07-AJuN/02-Wugs.html.js").then(({ data }) => data),
-  // path: /1v1/07-AJuN/03-Exam-Foundations-of-Computing-COMP10001_2022_SM2.html
-  "v-0211422b": () => import(/* webpackChunkName: "v-0211422b" */"/Users/huangjiabao/GitHub/WebSite/ShuaiShao20010902.github.io/docs/.vuepress/.temp/pages/1v1/07-AJuN/03-Exam-Foundations-of-Computing-COMP10001_2022_SM2.html.js").then(({ data }) => data),
   // path: /1v1/08-LionGuo/01-Homework-Problem-DNA-sequencing.html
   "v-30d8b313": () => import(/* webpackChunkName: "v-30d8b313" */"/Users/huangjiabao/GitHub/WebSite/ShuaiShao20010902.github.io/docs/.vuepress/.temp/pages/1v1/08-LionGuo/01-Homework-Problem-DNA-sequencing.html.js").then(({ data }) => data),
   // path: /1v1/08-LionGuo/02-Homework-Problem-2-Arctic-Ice.html

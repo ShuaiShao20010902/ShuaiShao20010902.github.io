@@ -5,36 +5,12 @@ export const pagesComponents = {
   "v-8daa1a0e": defineAsyncComponent(() => import(/* webpackChunkName: "v-8daa1a0e" */"/Users/huangjiabao/GitHub/WebSite/ShuaiShao20010902.github.io/docs/.vuepress/.temp/pages/index.html.vue")),
   // path: /archives/491.html
   "v-69c1cc92": defineAsyncComponent(() => import(/* webpackChunkName: "v-69c1cc92" */"/Users/huangjiabao/GitHub/WebSite/ShuaiShao20010902.github.io/docs/.vuepress/.temp/pages/archives/491.html.vue")),
-  // path: /1v1/07-AJuN/01-W14-Worksheet-14-File-IO-and-CSV-Files.html
-  "v-abb219f8": defineAsyncComponent(() => import(/* webpackChunkName: "v-abb219f8" */"/Users/huangjiabao/GitHub/WebSite/ShuaiShao20010902.github.io/docs/.vuepress/.temp/pages/1v1/07-AJuN/01-W14-Worksheet-14-File-IO-and-CSV-Files.html.vue")),
-  // path: /1v1/07-AJuN/02-Wugs.html
-  "v-0139b2a7": defineAsyncComponent(() => import(/* webpackChunkName: "v-0139b2a7" */"/Users/huangjiabao/GitHub/WebSite/ShuaiShao20010902.github.io/docs/.vuepress/.temp/pages/1v1/07-AJuN/02-Wugs.html.vue")),
-  // path: /1v1/07-AJuN/03-Exam-Foundations-of-Computing-COMP10001_2022_SM2.html
-  "v-0211422b": defineAsyncComponent(() => import(/* webpackChunkName: "v-0211422b" */"/Users/huangjiabao/GitHub/WebSite/ShuaiShao20010902.github.io/docs/.vuepress/.temp/pages/1v1/07-AJuN/03-Exam-Foundations-of-Computing-COMP10001_2022_SM2.html.vue")),
   // path: /1v1/08-LionGuo/01-Homework-Problem-DNA-sequencing.html
   "v-30d8b313": defineAsyncComponent(() => import(/* webpackChunkName: "v-30d8b313" */"/Users/huangjiabao/GitHub/WebSite/ShuaiShao20010902.github.io/docs/.vuepress/.temp/pages/1v1/08-LionGuo/01-Homework-Problem-DNA-sequencing.html.vue")),
   // path: /1v1/08-LionGuo/02-Homework-Problem-2-Arctic-Ice.html
   "v-6580009e": defineAsyncComponent(() => import(/* webpackChunkName: "v-6580009e" */"/Users/huangjiabao/GitHub/WebSite/ShuaiShao20010902.github.io/docs/.vuepress/.temp/pages/1v1/08-LionGuo/02-Homework-Problem-2-Arctic-Ice.html.vue")),
   // path: /1v1/08-LionGuo/03-Homework-Problem-3-Finding-an-exoplanet.html
   "v-878260da": defineAsyncComponent(() => import(/* webpackChunkName: "v-878260da" */"/Users/huangjiabao/GitHub/WebSite/ShuaiShao20010902.github.io/docs/.vuepress/.temp/pages/1v1/08-LionGuo/03-Homework-Problem-3-Finding-an-exoplanet.html.vue")),
-  // path: /1v1/06-KAI/01-Assignment-1-Unix.html
-  "v-109aaa4c": defineAsyncComponent(() => import(/* webpackChunkName: "v-109aaa4c" */"/Users/huangjiabao/GitHub/WebSite/ShuaiShao20010902.github.io/docs/.vuepress/.temp/pages/1v1/06-KAI/01-Assignment-1-Unix.html.vue")),
-  // path: /1v1/06-KAI/02-Part-1-Birth-Date-Application-30-pts.html
-  "v-ab7adfc4": defineAsyncComponent(() => import(/* webpackChunkName: "v-ab7adfc4" */"/Users/huangjiabao/GitHub/WebSite/ShuaiShao20010902.github.io/docs/.vuepress/.temp/pages/1v1/06-KAI/02-Part-1-Birth-Date-Application-30-pts.html.vue")),
-  // path: /1v1/06-KAI/03-Mac-Windows%E5%91%BD%E4%BB%A4%E8%A1%8C%E7%BC%96%E5%86%99Java.html
-  "v-27863aaa": defineAsyncComponent(() => import(/* webpackChunkName: "v-27863aaa" */"/Users/huangjiabao/GitHub/WebSite/ShuaiShao20010902.github.io/docs/.vuepress/.temp/pages/1v1/06-KAI/03-Mac-Windows命令行编写Java.html.vue")),
-  // path: /1v1/06-KAI/05-Assignment3-CSS.html
-  "v-799167be": defineAsyncComponent(() => import(/* webpackChunkName: "v-799167be" */"/Users/huangjiabao/GitHub/WebSite/ShuaiShao20010902.github.io/docs/.vuepress/.temp/pages/1v1/06-KAI/05-Assignment3-CSS.html.vue")),
-  // path: /1v1/06-KAI/06-Weaving-a-Kilim-Carpet-Application.html
-  "v-c0397314": defineAsyncComponent(() => import(/* webpackChunkName: "v-c0397314" */"/Users/huangjiabao/GitHub/WebSite/ShuaiShao20010902.github.io/docs/.vuepress/.temp/pages/1v1/06-KAI/06-Weaving-a-Kilim-Carpet-Application.html.vue")),
-  // path: /1v1/06-KAI/07-Assignment-3-java.html
-  "v-7524c95c": defineAsyncComponent(() => import(/* webpackChunkName: "v-7524c95c" */"/Users/huangjiabao/GitHub/WebSite/ShuaiShao20010902.github.io/docs/.vuepress/.temp/pages/1v1/06-KAI/07-Assignment-3-java.html.vue")),
-  // path: /1v1/06-KAI/09-Assignment5-Vector-Graphics.html
-  "v-9210ca74": defineAsyncComponent(() => import(/* webpackChunkName: "v-9210ca74" */"/Users/huangjiabao/GitHub/WebSite/ShuaiShao20010902.github.io/docs/.vuepress/.temp/pages/1v1/06-KAI/09-Assignment5-Vector-Graphics.html.vue")),
-  // path: /1v1/06-KAI/10-Assignment4-Hangman-Game.html
-  "v-6d4d2a75": defineAsyncComponent(() => import(/* webpackChunkName: "v-6d4d2a75" */"/Users/huangjiabao/GitHub/WebSite/ShuaiShao20010902.github.io/docs/.vuepress/.temp/pages/1v1/06-KAI/10-Assignment4-Hangman-Game.html.vue")),
-  // path: /1v1/06-KAI/
-  "v-09b28307": defineAsyncComponent(() => import(/* webpackChunkName: "v-09b28307" */"/Users/huangjiabao/GitHub/WebSite/ShuaiShao20010902.github.io/docs/.vuepress/.temp/pages/1v1/06-KAI/index.html.vue")),
   // path: /1v1/05-Patrick/01-CITS1401-Computational-Thinking-with-Python.html
   "v-553e8d47": defineAsyncComponent(() => import(/* webpackChunkName: "v-553e8d47" */"/Users/huangjiabao/GitHub/WebSite/ShuaiShao20010902.github.io/docs/.vuepress/.temp/pages/1v1/05-Patrick/01-CITS1401-Computational-Thinking-with-Python.html.vue")),
   // path: /1v1/05-Patrick/02-CS-shaoshuai-Python-cs.html
@@ -332,6 +308,5 @@ export const pagesComponents = {
   // path: /05-Patrick/03-CITS1401-Computational-Thinking-wit-Python.html
   "v-5e195746": defineAsyncComponent(() => import(/* webpackChunkName: "v-5e195746" */"/Users/huangjiabao/GitHub/WebSite/ShuaiShao20010902.github.io/docs/.vuepress/.temp/pages/05-Patrick/03-CITS1401-Computational-Thinking-wit-Python.html.vue")),
 }
-ing-wit-Python.html
-  "v-5e195746": defineAsyncComponent(() => import(/* webpackChunkName: "v-5e195746" */"/Users/huangjiabao/GitHub/WebSite/ShuaiShao20010902.github.io/docs/.vuepress/.temp/pages/05-Patrick/03-CITS1401-Computational-Thinking-wit-Python.html.vue")),
+"v-5e195746": defineAsyncComponent(() => import(/* webpackChunkName: "v-5e195746" */"/Users/huangjiabao/GitHub/WebSite/ShuaiShao20010902.github.io/docs/.vuepress/.temp/pages/05-Patrick/03-CITS1401-Computational-Thinking-wit-Python.html.vue")),
 }
