@@ -106,9 +106,9 @@ is distance number 8. Yourtask istowrite a programwhich fulfills the following r
 
 **Table 1** : Details of the Facial landmarks
 
-![image-20220908192014220](./01-CITS1401-Computational-Thinking-with-Python.assets/image-20220908192014220.png)
+![image-20220908192014220](01-CITS1401-Computational-Thinking-with-Python.assets/image-20220908192014220.png)
 
-![image-20220908192104211](./01-CITS1401-Computational-Thinking-with-Python.assets/image-20220908192104211.png)
+![image-20220908192104211](01-CITS1401-Computational-Thinking-with-Python.assets/image-20220908192104211.png)
 
 **Requirements (i.e. what your program should do)**
 
@@ -593,7 +593,7 @@ if __name__ == '__main__':
     main(csvfile=path, adultID="E001")
 ```
 
-![image-20220911110429465](./01-CITS1401-Computational-Thinking-with-Python.assets/image-20220911110429465.png)
+![image-20220911110429465](01-CITS1401-Computational-Thinking-with-Python.assets/image-20220911110429465.png)
 
 ## 添加 Stats/FR
 
@@ -1788,9 +1788,9 @@ if __name__ == '__main__':
 
 ```
 
-![image-20220914101206734](./01-CITS1401-Computational-Thinking-with-Python.assets/image-20220914101206734.png)
+![image-20220914101206734](01-CITS1401-Computational-Thinking-with-Python.assets/image-20220914101206734.png)
 
-![image-20220914101420886](./01-CITS1401-Computational-Thinking-with-Python.assets/image-20220914101420886.png)
+![image-20220914101420886](01-CITS1401-Computational-Thinking-with-Python.assets/image-20220914101420886.png)
 
 ```python
 from pprint import pprint
@@ -2555,7 +2555,7 @@ Your program can assume the following:
 - The **main()** function will always be provided with valid input parameters.
 - The formula for standard deviation and for calculating cosine similarity can be found at the end of the project sheet.
 
-![image-20220908182040558](./01-CITS1401-Computational-Thinking-with-Python.assets/image-20220908182040558.png)
+![image-20220908182040558](01-CITS1401-Computational-Thinking-with-Python.assets/image-20220908182040558.png)
 
 
 

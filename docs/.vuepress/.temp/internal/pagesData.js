@@ -9,8 +9,6 @@ export const pagesData = {
   "v-0139b2a7": () => import(/* webpackChunkName: "v-0139b2a7" */"/Users/huangjiabao/GitHub/WebSite/ShuaiShao20010902.github.io/docs/.vuepress/.temp/pages/1v1/07-AJuN/02-Wugs.html.js").then(({ data }) => data),
   // path: /1v1/07-AJuN/03-Exam-Foundations-of-Computing-COMP10001_2022_SM2.html
   "v-0211422b": () => import(/* webpackChunkName: "v-0211422b" */"/Users/huangjiabao/GitHub/WebSite/ShuaiShao20010902.github.io/docs/.vuepress/.temp/pages/1v1/07-AJuN/03-Exam-Foundations-of-Computing-COMP10001_2022_SM2.html.js").then(({ data }) => data),
-  // path: /1v1/04-TommyTian/01.html
-  "v-7950d57c": () => import(/* webpackChunkName: "v-7950d57c" */"/Users/huangjiabao/GitHub/WebSite/ShuaiShao20010902.github.io/docs/.vuepress/.temp/pages/1v1/04-TommyTian/01.html.js").then(({ data }) => data),
   // path: /1v1/08-LionGuo/01-Homework-Problem-DNA-sequencing.html
   "v-30d8b313": () => import(/* webpackChunkName: "v-30d8b313" */"/Users/huangjiabao/GitHub/WebSite/ShuaiShao20010902.github.io/docs/.vuepress/.temp/pages/1v1/08-LionGuo/01-Homework-Problem-DNA-sequencing.html.js").then(({ data }) => data),
   // path: /1v1/08-LionGuo/02-Homework-Problem-2-Arctic-Ice.html
@@ -329,4 +327,10 @@ export const pagesData = {
   "v-43d7543a": () => import(/* webpackChunkName: "v-43d7543a" */"/Users/huangjiabao/GitHub/WebSite/ShuaiShao20010902.github.io/docs/.vuepress/.temp/pages/category/vuepress/index.html.js").then(({ data }) => data),
   // path: /tag/vuepress/
   "v-ed16b278": () => import(/* webpackChunkName: "v-ed16b278" */"/Users/huangjiabao/GitHub/WebSite/ShuaiShao20010902.github.io/docs/.vuepress/.temp/pages/tag/vuepress/index.html.js").then(({ data }) => data),
+  // path: /05-Patrick/02-CS-shaoshuai-Python-cs.html
+  "v-6ea2770e": () => import(/* webpackChunkName: "v-6ea2770e" */"/Users/huangjiabao/GitHub/WebSite/ShuaiShao20010902.github.io/docs/.vuepress/.temp/pages/05-Patrick/02-CS-shaoshuai-Python-cs.html.js").then(({ data }) => data),
+  // path: /05-Patrick/01-CITS1401-Computational-Thinking-with-Python.html
+  "v-14686dc4": () => import(/* webpackChunkName: "v-14686dc4" */"/Users/huangjiabao/GitHub/WebSite/ShuaiShao20010902.github.io/docs/.vuepress/.temp/pages/05-Patrick/01-CITS1401-Computational-Thinking-with-Python.html.js").then(({ data }) => data),
+  // path: /05-Patrick/03-CITS1401-Computational-Thinking-wit-Python.html
+  "v-5e195746": () => import(/* webpackChunkName: "v-5e195746" */"/Users/huangjiabao/GitHub/WebSite/ShuaiShao20010902.github.io/docs/.vuepress/.temp/pages/05-Patrick/03-CITS1401-Computational-Thinking-wit-Python.html.js").then(({ data }) => data),
 }

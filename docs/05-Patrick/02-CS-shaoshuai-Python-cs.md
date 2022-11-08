@@ -83,7 +83,7 @@ Define a function my_enumerate(items) that behaves in a similar way to the built
 
 >   定义一个函数 my_enumerate(items)，其行为方式与内置的 enumerate 函数类似。它应该返回元组(i, item)的列表，其中 item 是列表项的第 i 个项，原点为0(参见下面的示例)。检查测试用例以了解该功能应该如何工作。你的函数不能调用 python 的内置 enumerate 函数。
 
-![image-20221013112157390](./02-CS-shaoshuai-Python-cs.assets/image-20221013112157390.png)
+![image-20221013112157390](02-CS-shaoshuai-Python-cs.assets/image-20221013112157390.png)
 
 ```python
 def my_enumerate(items: list):
@@ -106,7 +106,7 @@ Sequences of numbers in which there are frequent "runs" of a particular number r
 
 >   一个特定的数字频繁地重复出现几次的数字序列，通常可以用所谓的“长度编码”来更紧凑地表示。通过将列表表示为一对(2元组)的列表，将其编码为运行长度，其中每对是一个数字和该数字的“运行”长度，如果一个数字出现一次，则长度为1，如果它在一行中出现两次，则长度为2，以此类推。编写一个函数run_length_encode(nums)，它返回整数列表nums的运行长度编码表示。
 
-![image-20221013112904773](./02-CS-shaoshuai-Python-cs.assets/image-20221013112904773.png)
+![image-20221013112904773](02-CS-shaoshuai-Python-cs.assets/image-20221013112904773.png)
 
 ```python
 def run_length_encode(nums: list):
@@ -133,7 +133,7 @@ Write a function composite2(N) which takes an integer N as an input and returns 
 
 >   编写一个函数composit2 (N)，它接受整数N作为输入，并返回第N个不能被2整除的合数。
 
-![image-20221013114143581](./02-CS-shaoshuai-Python-cs.assets/image-20221013114143581.png)
+![image-20221013114143581](02-CS-shaoshuai-Python-cs.assets/image-20221013114143581.png)
 
 
 
