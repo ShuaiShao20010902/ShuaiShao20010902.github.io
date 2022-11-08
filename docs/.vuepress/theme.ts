@@ -14,8 +14,7 @@ export default hopeTheme({
   // iconAssets: "iconfont",
   iconAssets: "//at.alicdn.com/t/c/font_3426793_if7debkm2dg.css",
 
-  logo: "/aiyc.svg",
-  // logo: "/img_home/logo_min.png",
+  logo: "/img_home/logo_min.png",
   repo: "ShuaiShao20010902?tab=repositories",
 
   // docsDir: "docss",
@@ -28,19 +27,17 @@ export default hopeTheme({
 
   pageInfo: ["Author", "Original", "Date", "Category", "Tag", "ReadingTime"],
 
-  blog: {
-    medias: {
-      Email: "mailto:bornforthis@bornforthis.cn",
-      Gitee: "https://gitee.com/huangjiabaoaiyc",
-      GitHub: "https://github.com/AndersonHJB",
-      Gmail: "mailto:aiyuechuang@gmail.com",
-      QQ: "http://wpa.qq.com/msgrd?v=3&uin=1432803776&site=qq&menu=yes",
-      Youtube: "https://www.youtube.com/channel/UCT525Fk74w_l9Pk06OxkLxg",
-      Zhihu: "https://www.zhihu.com/people/aiyuechuang",
-    },
-  },
+  // blog: {
+  //   medias: {
+  //     GitHub: "https://github.com/AndersonHJB",
+  //     Gmail: "mailto:aiyuechuang@gmail.com",
+  //     QQ: "http://wpa.qq.com/msgrd?v=3&uin=1432803776&site=qq&menu=yes",
+  //     Youtube: "https://www.youtube.com/channel/UCT525Fk74w_l9Pk06OxkLxg",
+  //     Zhihu: "https://www.zhihu.com/people/aiyuechuang",
+  //   },
+  // },
 
-  footer: '长期招收编程一对一学员!微信:Jiabcdefh, <a href="https://beian.miit.gov.cn/" target="_blank">闽ICP备19021486号-6</a>',
+  footer: 'NoteBook</a>',
 
   locales: {
     "/": {
