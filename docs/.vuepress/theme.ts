@@ -37,7 +37,7 @@ export default hopeTheme({
   //   },
   // },
 
-  footer: 'NoteBook</a>',
+  footer: 'NoteBook',
 
   locales: {
     "/": {
@@ -47,54 +47,29 @@ export default hopeTheme({
       // sidebar
       sidebar: zhSidebar,
 
-      footer: '长期招收编程一对一学员!微信:Jiabcdefh, <a href="https://beian.miit.gov.cn/" target="_blank">闽ICP备19021486号-6</a>',
+      footer: 'NoteBook',
 
       displayFooter: true,
 
       blog: {
         name: "AI悦创",
-        avatar: "/aiyc.jpg",
-        description: "一个思考者,编程私教 1v1",
+        avatar: "/me.jpeg",
+        description: "一个思考者",
         intro: "/intro.md",
         articlePerPage: 6,
       },
       editLink: false,
 
-      // metaLocales: {
-      //   editLink: "Edit this page on GitHub",
-      // },
+
     },
   },
 
   encrypt: {
     config: {
-      "/column/Python-practice/Answer/The-University-of-Melbourne/exam-2022-solution": ["aiyc-exam-2022-solution", "aiyc"],
-      "/column/Python-practice/Answer/The-University-of-Melbourne/exam-2016s1-solution": ["exam-2016s1-solution", "aiyc"],
-      "/column/Python-practice/Answer/The-University-of-Melbourne/exam-2017s1-solution": ["exam-2017s1-solution", "aiyc"],
-      "/column/Python-practice/Answer/The-University-of-Melbourne/exam-2018s1-solution": ["exam-2018s1-solution", "aiyc"],
-      "/column/Python-practice/Answer/The-University-of-Melbourne/exam-2019s1-solution.html": ["exam-2019s1-solution", "aiyc"],
-      "/column/Python-practice/Answer/The-University-of-Melbourne/exam-2019s2-solution.html": ["exam-2019s2-solution", "aiyc"],
-      "/1v1/11-MaLin/": ["malin", "aiyc"],
-      "/1v1/08-LionGuo/": ["xsxsxsxsx", "aiyc"],
-      "/1v1/06-KAI/": ["kaissss", "aiyc"],
-      "/1v1/05-Patrick/": ["xxxxxx", "aiyc"],
-      "/column/An-introductory-programming-class-that-anyone-can-learn/detail/": ["123123", "aiyc"],
-      "/1v1/07-AJuN/": ["aiyclosshwhwhwshxw", "aiyc"],
-      "/1v1/03-Dannie/01.html": ["123123", "aiyc"],
-      "/1v1/01-Thomas-hw-note/": ["123123", "aiyc"],
-      "/column/python60/": ["123123a", "aiyc"],
+      "/1v1/05-Patrick/": ["Patrick101", "aiyc"],
       // "/column/Fifth_brother_photography_class/": "123123a",
       // "/column/data-structure/": "123123a",
       // "/column/web/": "123123a",
-      "/dedao/": ["123123a", "aiyc"],
-      // "/column/data_analysis/week1": "123123a",
-      "/column/TensorFlow/零基础实战机器学习/": ["123123a", "aiyc"],
-      // "/${encodeURI(column/TensorFlow/零基础实战机器学习)}/": "123123a",
-      "/column/Programmingthinking/": ["123123a", "aiyc"],
-      "/column/playback/01-Tommy.html": ["20220517", "aiyc"],
-      "/column/playback/02-LKW.html": ["lkw", "aiyc"],
-      "/column/playback/03-20220610.html": ["20220610", "aiyc"],
-      "/1v1/09-liujiahui/": ["123123", "aiyc"],
     },
   },
 
@@ -127,34 +102,14 @@ export default hopeTheme({
        */
        provider: "Waline",
        serverURL: "https://comment.bornforthis.cn/",
-      //  reaction: true,
-      reaction: [
-        '/Waline/tieba/tieba_agree.png',
-        '/Waline/tieba/tieba_sunglasses.png',
-        '/Waline/tieba/tieba_pick_nose.png',
-        '/Waline/tieba/tieba_sleep.png',
-        '/Waline/tieba/tieba_awkward.png',
-        // '/Waline/tieba/tieba_coffee.png',
-        '/Waline/tieba/tieba_cute.png',
-        // '/Waline/qq/qq_4.gif',
-        // '/Waline/qq/qq_alpaca.gif',
-        // '/Waline/qq/qq_bear2.gif',
-      ],
+       reaction: true,
+
        comment: true, // 评论数统计
        pageview: true, // 浏览量统计
        copyright: false,
        dark: "auto",
-      //  emoji: [
-      //    'https://cdn.jsdelivr.net/gh/walinejs/emojis@1.0.0/qq',
-      //    'https://cdn.jsdelivr.net/gh/walinejs/emojis@1.0.0/weibo',
-      //    'https://cdn.jsdelivr.net/gh/walinejs/emojis@1.0.0/bilibili',
-      //    'https://cdn.jsdelivr.net/gh/walinejs/emojis@1.0.0/alus',
-      //    'https://cdn.jsdelivr.net/gh/walinejs/emojis@1.0.0/tieba',
-      //    'https://cdn.jsdelivr.net/gh/walinejs/emojis@1.0.0/tw-emoji',
-      //  ],
     },
     components: [
-      // "Badge",
       "PDF",
       "YouTube",
       "VideoPlayer",
