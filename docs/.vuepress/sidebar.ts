@@ -1,104 +1,12 @@
 import { sidebar } from "vuepress-theme-hope";
 
 export const zhSidebar = sidebar({
-	"/column/download/": [
-		"",
-		"最好用的Markdown编辑器Typora破解指南",
-	],
-	"/column/Django-fast-development-practice/": [
-		{ text: "Django首页", icon: "django", link: ""},
-		{
-			text: "初识Django (4讲)",
-			icon: "django",
-			children: [
-				{ text: "课程介绍", icon: "django", link: "chapter01/01-django-intro"}
-			]
-		}
-	],
-	"/popular-science/": [
-		"",
-		"01-How-does-OBS-multiplex-push",
-	],
-	"/blog/The-public-class/": [
-		
-		{ "text": "01-初识Kitten", link: "01-初识Kitten",}
-	],
-	"/column/git/": [
-		"",
-		{
-			text: "入门基础",
-			icon: "git",
-			children: [
-				"base/01",
-				"base/02",
-				"base/03",
-				"base/04",
-				
-			]
-		}
-		
-	],
-	"/column/svg-tutorial/": [
-		"",
-		"svg-intro",
-		"svg-example",
-		"svg-inhtml",
-		"svg-rect",
-		"svg-circle",
-		"svg-ellipse",
-		"svg-line",
-		"svg-polygon",
-		"svg-polyline",
-		"svg-path",
-		"svg-text",
-		"svg-stroke",
-	],
-	"/column/Python-practice/": [
-		{
-			text: "墨尔本大学 Python",
-			icon: "python",
-			children: [
-				"The-University-of-Melbourne/exam-2016s1",
-				"The-University-of-Melbourne/exam-2019s2",
-				"The-University-of-Melbourne/exam-2022-online",
-			]
-		},
-		{
-			text: "答案",
-			icon: "python",
-			children: [
-				{
-					text: "墨尔本大学 Answer",
-					icon: "python",
-					children: [
-						{ text: "exam-2016s1-solution", icon: "python", link: "Answer/The-University-of-Melbourne/exam-2016s1-solution"},
-						{ text: "exam-2017s1-solution", icon: "python", link: "Answer/The-University-of-Melbourne/exam-2017s1-solution"},
-						{ text: "exam-2018s1-solution", icon: "python", link: "Answer/The-University-of-Melbourne/exam-2018s1-solution"},
-						{ text: "exam-2019s1-solution", icon: "python", link: "Answer/The-University-of-Melbourne/exam-2019s1-solution"},
-						{ text: "exam-2019s2-solution", icon: "python", link: "Answer/The-University-of-Melbourne/exam-2019s2-solution"},
-						{ text: "exam-2022-solution", icon: "python", link: "Answer/The-University-of-Melbourne/exam-2022-solution"},
-						
-					]
-				}
-			]
-		}
-	],
-	"/column/Basic-course-of-artificial-intelligence/": [
-		{
-			text: "开篇词 (1讲)",
-			icon: "rengongzhineng",
-			children: [
-				"detail/chapter01/01",
-			]
-		},
-		{
-			text: "数学基础 (7讲)",
-			icon: "rengongzhineng",
-			children: [
-				"detail/chapter02/01"
-			]
-		}
-	],
+
+
+
+
+
+
 	"/column/An-introductory-programming-class-that-anyone-can-learn/": [
 		{
 			text: "开篇词 (1讲)",
