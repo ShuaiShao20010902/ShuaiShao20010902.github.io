@@ -1,7 +1,7 @@
 ---
 title: Number System
-date: 2022-10-03 00:56:46
-author: AI悦创
+date: 2021-10-03 00:56:46
+author: 邵帅
 isOriginal: true
 category: 
     - Number System

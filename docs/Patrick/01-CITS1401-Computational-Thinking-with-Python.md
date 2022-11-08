@@ -2,12 +2,8 @@
 title: 01-CITS1401 Computational Thinking with Python
 icon: python
 time: 2022-09-08 17:12:16
-author: AI悦创
+author: 邵帅
 isOriginal: true
-category: 
-    - Python 1v1
-tag:
-    - Python 1v1
 sticky: false
 star: false
 password: false
@@ -19,7 +15,7 @@ sidebarIcon: true
 headerDepth: 5
 comment: true
 lastUpdated: true
-editLink: true
+editLink: false
 backToTop: true
 toc: true
 ---
