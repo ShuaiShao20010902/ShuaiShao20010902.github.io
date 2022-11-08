@@ -1,18 +1,24 @@
 import { defineAsyncComponent } from 'vue'
 
 export const pagesComponents = {
+  // path: /
+  "v-8daa1a0e": defineAsyncComponent(() => import(/* webpackChunkName: "v-8daa1a0e" */"/Users/huangjiabao/GitHub/WebSite/ShuaiShao20010902.github.io/docs/.vuepress/.temp/pages/index.html.vue")),
   // path: /archives/491.html
   "v-69c1cc92": defineAsyncComponent(() => import(/* webpackChunkName: "v-69c1cc92" */"/Users/huangjiabao/GitHub/WebSite/ShuaiShao20010902.github.io/docs/.vuepress/.temp/pages/archives/491.html.vue")),
-  // path: /1v1/
-  "v-742ed5bc": defineAsyncComponent(() => import(/* webpackChunkName: "v-742ed5bc" */"/Users/huangjiabao/GitHub/WebSite/ShuaiShao20010902.github.io/docs/.vuepress/.temp/pages/1v1/index.html.vue")),
+  // path: /1v1/07-AJuN/01-W14-Worksheet-14-File-IO-and-CSV-Files.html
+  "v-abb219f8": defineAsyncComponent(() => import(/* webpackChunkName: "v-abb219f8" */"/Users/huangjiabao/GitHub/WebSite/ShuaiShao20010902.github.io/docs/.vuepress/.temp/pages/1v1/07-AJuN/01-W14-Worksheet-14-File-IO-and-CSV-Files.html.vue")),
+  // path: /1v1/07-AJuN/02-Wugs.html
+  "v-0139b2a7": defineAsyncComponent(() => import(/* webpackChunkName: "v-0139b2a7" */"/Users/huangjiabao/GitHub/WebSite/ShuaiShao20010902.github.io/docs/.vuepress/.temp/pages/1v1/07-AJuN/02-Wugs.html.vue")),
+  // path: /1v1/07-AJuN/03-Exam-Foundations-of-Computing-COMP10001_2022_SM2.html
+  "v-0211422b": defineAsyncComponent(() => import(/* webpackChunkName: "v-0211422b" */"/Users/huangjiabao/GitHub/WebSite/ShuaiShao20010902.github.io/docs/.vuepress/.temp/pages/1v1/07-AJuN/03-Exam-Foundations-of-Computing-COMP10001_2022_SM2.html.vue")),
   // path: /1v1/04-TommyTian/01.html
   "v-7950d57c": defineAsyncComponent(() => import(/* webpackChunkName: "v-7950d57c" */"/Users/huangjiabao/GitHub/WebSite/ShuaiShao20010902.github.io/docs/.vuepress/.temp/pages/1v1/04-TommyTian/01.html.vue")),
-  // path: /1v1/05-Patrick/01-CITS1401-Computational-Thinking-with-Python.html
-  "v-553e8d47": defineAsyncComponent(() => import(/* webpackChunkName: "v-553e8d47" */"/Users/huangjiabao/GitHub/WebSite/ShuaiShao20010902.github.io/docs/.vuepress/.temp/pages/1v1/05-Patrick/01-CITS1401-Computational-Thinking-with-Python.html.vue")),
-  // path: /1v1/05-Patrick/02-CS-shaoshuai-Python-cs.html
-  "v-a40768aa": defineAsyncComponent(() => import(/* webpackChunkName: "v-a40768aa" */"/Users/huangjiabao/GitHub/WebSite/ShuaiShao20010902.github.io/docs/.vuepress/.temp/pages/1v1/05-Patrick/02-CS-shaoshuai-Python-cs.html.vue")),
-  // path: /1v1/05-Patrick/03-CITS1401-Computational-Thinking-wit-Python.html
-  "v-47e0893a": defineAsyncComponent(() => import(/* webpackChunkName: "v-47e0893a" */"/Users/huangjiabao/GitHub/WebSite/ShuaiShao20010902.github.io/docs/.vuepress/.temp/pages/1v1/05-Patrick/03-CITS1401-Computational-Thinking-wit-Python.html.vue")),
+  // path: /1v1/08-LionGuo/01-Homework-Problem-DNA-sequencing.html
+  "v-30d8b313": defineAsyncComponent(() => import(/* webpackChunkName: "v-30d8b313" */"/Users/huangjiabao/GitHub/WebSite/ShuaiShao20010902.github.io/docs/.vuepress/.temp/pages/1v1/08-LionGuo/01-Homework-Problem-DNA-sequencing.html.vue")),
+  // path: /1v1/08-LionGuo/02-Homework-Problem-2-Arctic-Ice.html
+  "v-6580009e": defineAsyncComponent(() => import(/* webpackChunkName: "v-6580009e" */"/Users/huangjiabao/GitHub/WebSite/ShuaiShao20010902.github.io/docs/.vuepress/.temp/pages/1v1/08-LionGuo/02-Homework-Problem-2-Arctic-Ice.html.vue")),
+  // path: /1v1/08-LionGuo/03-Homework-Problem-3-Finding-an-exoplanet.html
+  "v-878260da": defineAsyncComponent(() => import(/* webpackChunkName: "v-878260da" */"/Users/huangjiabao/GitHub/WebSite/ShuaiShao20010902.github.io/docs/.vuepress/.temp/pages/1v1/08-LionGuo/03-Homework-Problem-3-Finding-an-exoplanet.html.vue")),
   // path: /1v1/06-KAI/01-Assignment-1-Unix.html
   "v-109aaa4c": defineAsyncComponent(() => import(/* webpackChunkName: "v-109aaa4c" */"/Users/huangjiabao/GitHub/WebSite/ShuaiShao20010902.github.io/docs/.vuepress/.temp/pages/1v1/06-KAI/01-Assignment-1-Unix.html.vue")),
   // path: /1v1/06-KAI/02-Part-1-Birth-Date-Application-30-pts.html
@@ -35,28 +41,16 @@ export const pagesComponents = {
   "v-6d4d2a75": defineAsyncComponent(() => import(/* webpackChunkName: "v-6d4d2a75" */"/Users/huangjiabao/GitHub/WebSite/ShuaiShao20010902.github.io/docs/.vuepress/.temp/pages/1v1/06-KAI/10-Assignment4-Hangman-Game.html.vue")),
   // path: /1v1/06-KAI/
   "v-09b28307": defineAsyncComponent(() => import(/* webpackChunkName: "v-09b28307" */"/Users/huangjiabao/GitHub/WebSite/ShuaiShao20010902.github.io/docs/.vuepress/.temp/pages/1v1/06-KAI/index.html.vue")),
-  // path: /1v1/07-AJuN/01-W14-Worksheet-14-File-IO-and-CSV-Files.html
-  "v-abb219f8": defineAsyncComponent(() => import(/* webpackChunkName: "v-abb219f8" */"/Users/huangjiabao/GitHub/WebSite/ShuaiShao20010902.github.io/docs/.vuepress/.temp/pages/1v1/07-AJuN/01-W14-Worksheet-14-File-IO-and-CSV-Files.html.vue")),
-  // path: /1v1/07-AJuN/02-Wugs.html
-  "v-0139b2a7": defineAsyncComponent(() => import(/* webpackChunkName: "v-0139b2a7" */"/Users/huangjiabao/GitHub/WebSite/ShuaiShao20010902.github.io/docs/.vuepress/.temp/pages/1v1/07-AJuN/02-Wugs.html.vue")),
-  // path: /1v1/07-AJuN/03-Exam-Foundations-of-Computing-COMP10001_2022_SM2.html
-  "v-0211422b": defineAsyncComponent(() => import(/* webpackChunkName: "v-0211422b" */"/Users/huangjiabao/GitHub/WebSite/ShuaiShao20010902.github.io/docs/.vuepress/.temp/pages/1v1/07-AJuN/03-Exam-Foundations-of-Computing-COMP10001_2022_SM2.html.vue")),
-  // path: /1v1/08-LionGuo/01-Homework-Problem-DNA-sequencing.html
-  "v-30d8b313": defineAsyncComponent(() => import(/* webpackChunkName: "v-30d8b313" */"/Users/huangjiabao/GitHub/WebSite/ShuaiShao20010902.github.io/docs/.vuepress/.temp/pages/1v1/08-LionGuo/01-Homework-Problem-DNA-sequencing.html.vue")),
-  // path: /1v1/08-LionGuo/02-Homework-Problem-2-Arctic-Ice.html
-  "v-6580009e": defineAsyncComponent(() => import(/* webpackChunkName: "v-6580009e" */"/Users/huangjiabao/GitHub/WebSite/ShuaiShao20010902.github.io/docs/.vuepress/.temp/pages/1v1/08-LionGuo/02-Homework-Problem-2-Arctic-Ice.html.vue")),
-  // path: /1v1/08-LionGuo/03-Homework-Problem-3-Finding-an-exoplanet.html
-  "v-878260da": defineAsyncComponent(() => import(/* webpackChunkName: "v-878260da" */"/Users/huangjiabao/GitHub/WebSite/ShuaiShao20010902.github.io/docs/.vuepress/.temp/pages/1v1/08-LionGuo/03-Homework-Problem-3-Finding-an-exoplanet.html.vue")),
+  // path: /1v1/05-Patrick/01-CITS1401-Computational-Thinking-with-Python.html
+  "v-553e8d47": defineAsyncComponent(() => import(/* webpackChunkName: "v-553e8d47" */"/Users/huangjiabao/GitHub/WebSite/ShuaiShao20010902.github.io/docs/.vuepress/.temp/pages/1v1/05-Patrick/01-CITS1401-Computational-Thinking-with-Python.html.vue")),
+  // path: /1v1/05-Patrick/02-CS-shaoshuai-Python-cs.html
+  "v-a40768aa": defineAsyncComponent(() => import(/* webpackChunkName: "v-a40768aa" */"/Users/huangjiabao/GitHub/WebSite/ShuaiShao20010902.github.io/docs/.vuepress/.temp/pages/1v1/05-Patrick/02-CS-shaoshuai-Python-cs.html.vue")),
+  // path: /1v1/05-Patrick/03-CITS1401-Computational-Thinking-wit-Python.html
+  "v-47e0893a": defineAsyncComponent(() => import(/* webpackChunkName: "v-47e0893a" */"/Users/huangjiabao/GitHub/WebSite/ShuaiShao20010902.github.io/docs/.vuepress/.temp/pages/1v1/05-Patrick/03-CITS1401-Computational-Thinking-wit-Python.html.vue")),
   // path: /1v1/09-liujiahui/01-Coursework-1-Property-Viewer-zh.html
   "v-128fa9d2": defineAsyncComponent(() => import(/* webpackChunkName: "v-128fa9d2" */"/Users/huangjiabao/GitHub/WebSite/ShuaiShao20010902.github.io/docs/.vuepress/.temp/pages/1v1/09-liujiahui/01-Coursework-1-Property-Viewer-zh.html.vue")),
   // path: /1v1/09-liujiahui/01-Coursework-1-Property-Viewer.html
   "v-d4b7f5b6": defineAsyncComponent(() => import(/* webpackChunkName: "v-d4b7f5b6" */"/Users/huangjiabao/GitHub/WebSite/ShuaiShao20010902.github.io/docs/.vuepress/.temp/pages/1v1/09-liujiahui/01-Coursework-1-Property-Viewer.html.vue")),
-  // path: /1v1/10-java-note/01-%E4%BB%8E%E5%8A%A0%E5%87%8F%E4%B9%98%E9%99%A4%E5%88%B0%E5%8F%98%E9%87%8F.html
-  "v-3a391cf4": defineAsyncComponent(() => import(/* webpackChunkName: "v-3a391cf4" */"/Users/huangjiabao/GitHub/WebSite/ShuaiShao20010902.github.io/docs/.vuepress/.temp/pages/1v1/10-java-note/01-从加减乘除到变量.html.vue")),
-  // path: /1v1/10-java-note/01.html
-  "v-92742898": defineAsyncComponent(() => import(/* webpackChunkName: "v-92742898" */"/Users/huangjiabao/GitHub/WebSite/ShuaiShao20010902.github.io/docs/.vuepress/.temp/pages/1v1/10-java-note/01.html.vue")),
-  // path: /1v1/10-java-note/02.html
-  "v-8f0a775a": defineAsyncComponent(() => import(/* webpackChunkName: "v-8f0a775a" */"/Users/huangjiabao/GitHub/WebSite/ShuaiShao20010902.github.io/docs/.vuepress/.temp/pages/1v1/10-java-note/02.html.vue")),
   // path: /blog/2022/01.html
   "v-a046424a": defineAsyncComponent(() => import(/* webpackChunkName: "v-a046424a" */"/Users/huangjiabao/GitHub/WebSite/ShuaiShao20010902.github.io/docs/.vuepress/.temp/pages/blog/2022/01.html.vue")),
   // path: /blog/2022/02.html
@@ -109,6 +103,12 @@ export const pagesComponents = {
   "v-207cb7d9": defineAsyncComponent(() => import(/* webpackChunkName: "v-207cb7d9" */"/Users/huangjiabao/GitHub/WebSite/ShuaiShao20010902.github.io/docs/.vuepress/.temp/pages/blog/2022/25.html.vue")),
   // path: /blog/2022/26.html
   "v-22319078": defineAsyncComponent(() => import(/* webpackChunkName: "v-22319078" */"/Users/huangjiabao/GitHub/WebSite/ShuaiShao20010902.github.io/docs/.vuepress/.temp/pages/blog/2022/26.html.vue")),
+  // path: /1v1/10-java-note/01-%E4%BB%8E%E5%8A%A0%E5%87%8F%E4%B9%98%E9%99%A4%E5%88%B0%E5%8F%98%E9%87%8F.html
+  "v-3a391cf4": defineAsyncComponent(() => import(/* webpackChunkName: "v-3a391cf4" */"/Users/huangjiabao/GitHub/WebSite/ShuaiShao20010902.github.io/docs/.vuepress/.temp/pages/1v1/10-java-note/01-从加减乘除到变量.html.vue")),
+  // path: /1v1/10-java-note/01.html
+  "v-92742898": defineAsyncComponent(() => import(/* webpackChunkName: "v-92742898" */"/Users/huangjiabao/GitHub/WebSite/ShuaiShao20010902.github.io/docs/.vuepress/.temp/pages/1v1/10-java-note/01.html.vue")),
+  // path: /1v1/10-java-note/02.html
+  "v-8f0a775a": defineAsyncComponent(() => import(/* webpackChunkName: "v-8f0a775a" */"/Users/huangjiabao/GitHub/WebSite/ShuaiShao20010902.github.io/docs/.vuepress/.temp/pages/1v1/10-java-note/02.html.vue")),
   // path: /blog/Number-System/Number-System-Conversion.html
   "v-40263ef9": defineAsyncComponent(() => import(/* webpackChunkName: "v-40263ef9" */"/Users/huangjiabao/GitHub/WebSite/ShuaiShao20010902.github.io/docs/.vuepress/.temp/pages/blog/Number-System/Number-System-Conversion.html.vue")),
   // path: /blog/Number-System/Number-System.html
@@ -147,34 +147,14 @@ export const pagesComponents = {
   "v-a9e37428": defineAsyncComponent(() => import(/* webpackChunkName: "v-a9e37428" */"/Users/huangjiabao/GitHub/WebSite/ShuaiShao20010902.github.io/docs/.vuepress/.temp/pages/category/gitbook/index.html.vue")),
   // path: /tag/gitbook/
   "v-52d10bbc": defineAsyncComponent(() => import(/* webpackChunkName: "v-52d10bbc" */"/Users/huangjiabao/GitHub/WebSite/ShuaiShao20010902.github.io/docs/.vuepress/.temp/pages/tag/gitbook/index.html.vue")),
-  // path: /category/python-1v1/
-  "v-46712b08": defineAsyncComponent(() => import(/* webpackChunkName: "v-46712b08" */"/Users/huangjiabao/GitHub/WebSite/ShuaiShao20010902.github.io/docs/.vuepress/.temp/pages/category/python-1v1/index.html.vue")),
-  // path: /tag/python-1v1/
-  "v-305a4286": defineAsyncComponent(() => import(/* webpackChunkName: "v-305a4286" */"/Users/huangjiabao/GitHub/WebSite/ShuaiShao20010902.github.io/docs/.vuepress/.temp/pages/tag/python-1v1/index.html.vue")),
-  // path: /category/web-1v1/
-  "v-33c9f234": defineAsyncComponent(() => import(/* webpackChunkName: "v-33c9f234" */"/Users/huangjiabao/GitHub/WebSite/ShuaiShao20010902.github.io/docs/.vuepress/.temp/pages/category/web-1v1/index.html.vue")),
-  // path: /tag/web-1v1/
-  "v-5f53266a": defineAsyncComponent(() => import(/* webpackChunkName: "v-5f53266a" */"/Users/huangjiabao/GitHub/WebSite/ShuaiShao20010902.github.io/docs/.vuepress/.temp/pages/tag/web-1v1/index.html.vue")),
-  // path: /category/html-1v1/
-  "v-5cb2970d": defineAsyncComponent(() => import(/* webpackChunkName: "v-5cb2970d" */"/Users/huangjiabao/GitHub/WebSite/ShuaiShao20010902.github.io/docs/.vuepress/.temp/pages/category/html-1v1/index.html.vue")),
-  // path: /tag/html-1v1/
-  "v-bb602cd2": defineAsyncComponent(() => import(/* webpackChunkName: "v-bb602cd2" */"/Users/huangjiabao/GitHub/WebSite/ShuaiShao20010902.github.io/docs/.vuepress/.temp/pages/tag/html-1v1/index.html.vue")),
   // path: /category/1v1/
   "v-65d7735b": defineAsyncComponent(() => import(/* webpackChunkName: "v-65d7735b" */"/Users/huangjiabao/GitHub/WebSite/ShuaiShao20010902.github.io/docs/.vuepress/.temp/pages/category/1v1/index.html.vue")),
   // path: /tag/1v1/
   "v-b3419ade": defineAsyncComponent(() => import(/* webpackChunkName: "v-b3419ade" */"/Users/huangjiabao/GitHub/WebSite/ShuaiShao20010902.github.io/docs/.vuepress/.temp/pages/tag/1v1/index.html.vue")),
-  // path: /category/%E7%BA%BD%E7%BA%A6%E5%A4%A7%E5%AD%A6%E4%B8%80%E5%AF%B9%E4%B8%80/
-  "v-488c8ba4": defineAsyncComponent(() => import(/* webpackChunkName: "v-488c8ba4" */"/Users/huangjiabao/GitHub/WebSite/ShuaiShao20010902.github.io/docs/.vuepress/.temp/pages/category/纽约大学一对一/index.html.vue")),
-  // path: /tag/%E7%BA%BD%E7%BA%A6%E5%A4%A7%E5%AD%A6%E4%B8%80%E5%AF%B9%E4%B8%80/
-  "v-4423a5da": defineAsyncComponent(() => import(/* webpackChunkName: "v-4423a5da" */"/Users/huangjiabao/GitHub/WebSite/ShuaiShao20010902.github.io/docs/.vuepress/.temp/pages/tag/纽约大学一对一/index.html.vue")),
-  // path: /category/java-1v1/
-  "v-ce503214": defineAsyncComponent(() => import(/* webpackChunkName: "v-ce503214" */"/Users/huangjiabao/GitHub/WebSite/ShuaiShao20010902.github.io/docs/.vuepress/.temp/pages/category/java-1v1/index.html.vue")),
-  // path: /tag/java-1v1/
-  "v-43158d00": defineAsyncComponent(() => import(/* webpackChunkName: "v-43158d00" */"/Users/huangjiabao/GitHub/WebSite/ShuaiShao20010902.github.io/docs/.vuepress/.temp/pages/tag/java-1v1/index.html.vue")),
-  // path: /category/nyu-1v1/
-  "v-616fd984": defineAsyncComponent(() => import(/* webpackChunkName: "v-616fd984" */"/Users/huangjiabao/GitHub/WebSite/ShuaiShao20010902.github.io/docs/.vuepress/.temp/pages/category/nyu-1v1/index.html.vue")),
-  // path: /tag/nyu-1v1/
-  "v-0a5d7118": defineAsyncComponent(() => import(/* webpackChunkName: "v-0a5d7118" */"/Users/huangjiabao/GitHub/WebSite/ShuaiShao20010902.github.io/docs/.vuepress/.temp/pages/tag/nyu-1v1/index.html.vue")),
+  // path: /category/python-1v1/
+  "v-46712b08": defineAsyncComponent(() => import(/* webpackChunkName: "v-46712b08" */"/Users/huangjiabao/GitHub/WebSite/ShuaiShao20010902.github.io/docs/.vuepress/.temp/pages/category/python-1v1/index.html.vue")),
+  // path: /tag/python-1v1/
+  "v-305a4286": defineAsyncComponent(() => import(/* webpackChunkName: "v-305a4286" */"/Users/huangjiabao/GitHub/WebSite/ShuaiShao20010902.github.io/docs/.vuepress/.temp/pages/tag/python-1v1/index.html.vue")),
   // path: /category/%E6%BE%B3%E6%B4%B2%E5%A4%A7%E5%AD%A6%E4%B8%80%E5%AF%B9%E4%B8%80/
   "v-7393b601": defineAsyncComponent(() => import(/* webpackChunkName: "v-7393b601" */"/Users/huangjiabao/GitHub/WebSite/ShuaiShao20010902.github.io/docs/.vuepress/.temp/pages/category/澳洲大学一对一/index.html.vue")),
   // path: /tag/%E6%BE%B3%E6%B4%B2%E5%A4%A7%E5%AD%A6%E4%B8%80%E5%AF%B9%E4%B8%80/
@@ -191,6 +171,26 @@ export const pagesComponents = {
   "v-05934772": defineAsyncComponent(() => import(/* webpackChunkName: "v-05934772" */"/Users/huangjiabao/GitHub/WebSite/ShuaiShao20010902.github.io/docs/.vuepress/.temp/pages/category/物理/index.html.vue")),
   // path: /tag/%E7%89%A9%E7%90%86/
   "v-271d8a51": defineAsyncComponent(() => import(/* webpackChunkName: "v-271d8a51" */"/Users/huangjiabao/GitHub/WebSite/ShuaiShao20010902.github.io/docs/.vuepress/.temp/pages/tag/物理/index.html.vue")),
+  // path: /category/web-1v1/
+  "v-33c9f234": defineAsyncComponent(() => import(/* webpackChunkName: "v-33c9f234" */"/Users/huangjiabao/GitHub/WebSite/ShuaiShao20010902.github.io/docs/.vuepress/.temp/pages/category/web-1v1/index.html.vue")),
+  // path: /tag/web-1v1/
+  "v-5f53266a": defineAsyncComponent(() => import(/* webpackChunkName: "v-5f53266a" */"/Users/huangjiabao/GitHub/WebSite/ShuaiShao20010902.github.io/docs/.vuepress/.temp/pages/tag/web-1v1/index.html.vue")),
+  // path: /category/html-1v1/
+  "v-5cb2970d": defineAsyncComponent(() => import(/* webpackChunkName: "v-5cb2970d" */"/Users/huangjiabao/GitHub/WebSite/ShuaiShao20010902.github.io/docs/.vuepress/.temp/pages/category/html-1v1/index.html.vue")),
+  // path: /tag/html-1v1/
+  "v-bb602cd2": defineAsyncComponent(() => import(/* webpackChunkName: "v-bb602cd2" */"/Users/huangjiabao/GitHub/WebSite/ShuaiShao20010902.github.io/docs/.vuepress/.temp/pages/tag/html-1v1/index.html.vue")),
+  // path: /category/%E7%BA%BD%E7%BA%A6%E5%A4%A7%E5%AD%A6%E4%B8%80%E5%AF%B9%E4%B8%80/
+  "v-488c8ba4": defineAsyncComponent(() => import(/* webpackChunkName: "v-488c8ba4" */"/Users/huangjiabao/GitHub/WebSite/ShuaiShao20010902.github.io/docs/.vuepress/.temp/pages/category/纽约大学一对一/index.html.vue")),
+  // path: /tag/%E7%BA%BD%E7%BA%A6%E5%A4%A7%E5%AD%A6%E4%B8%80%E5%AF%B9%E4%B8%80/
+  "v-4423a5da": defineAsyncComponent(() => import(/* webpackChunkName: "v-4423a5da" */"/Users/huangjiabao/GitHub/WebSite/ShuaiShao20010902.github.io/docs/.vuepress/.temp/pages/tag/纽约大学一对一/index.html.vue")),
+  // path: /category/java-1v1/
+  "v-ce503214": defineAsyncComponent(() => import(/* webpackChunkName: "v-ce503214" */"/Users/huangjiabao/GitHub/WebSite/ShuaiShao20010902.github.io/docs/.vuepress/.temp/pages/category/java-1v1/index.html.vue")),
+  // path: /tag/java-1v1/
+  "v-43158d00": defineAsyncComponent(() => import(/* webpackChunkName: "v-43158d00" */"/Users/huangjiabao/GitHub/WebSite/ShuaiShao20010902.github.io/docs/.vuepress/.temp/pages/tag/java-1v1/index.html.vue")),
+  // path: /category/nyu-1v1/
+  "v-616fd984": defineAsyncComponent(() => import(/* webpackChunkName: "v-616fd984" */"/Users/huangjiabao/GitHub/WebSite/ShuaiShao20010902.github.io/docs/.vuepress/.temp/pages/category/nyu-1v1/index.html.vue")),
+  // path: /tag/nyu-1v1/
+  "v-0a5d7118": defineAsyncComponent(() => import(/* webpackChunkName: "v-0a5d7118" */"/Users/huangjiabao/GitHub/WebSite/ShuaiShao20010902.github.io/docs/.vuepress/.temp/pages/tag/nyu-1v1/index.html.vue")),
   // path: /category/javascript/
   "v-e2bac56c": defineAsyncComponent(() => import(/* webpackChunkName: "v-e2bac56c" */"/Users/huangjiabao/GitHub/WebSite/ShuaiShao20010902.github.io/docs/.vuepress/.temp/pages/category/javascript/index.html.vue")),
   // path: /tag/javascript/
@@ -331,6 +331,4 @@ export const pagesComponents = {
   "v-43d7543a": defineAsyncComponent(() => import(/* webpackChunkName: "v-43d7543a" */"/Users/huangjiabao/GitHub/WebSite/ShuaiShao20010902.github.io/docs/.vuepress/.temp/pages/category/vuepress/index.html.vue")),
   // path: /tag/vuepress/
   "v-ed16b278": defineAsyncComponent(() => import(/* webpackChunkName: "v-ed16b278" */"/Users/huangjiabao/GitHub/WebSite/ShuaiShao20010902.github.io/docs/.vuepress/.temp/pages/tag/vuepress/index.html.vue")),
-  // path: /
-  "v-8daa1a0e": defineAsyncComponent(() => import(/* webpackChunkName: "v-8daa1a0e" */"/Users/huangjiabao/GitHub/WebSite/ShuaiShao20010902.github.io/docs/.vuepress/.temp/pages/index.html.vue")),
 }
