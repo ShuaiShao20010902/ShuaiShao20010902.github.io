@@ -1784,9 +1784,9 @@ if __name__ == '__main__':
 
 ```
 
-![image-20220914101206734](./01-CITS1401-Computational-Thinking-with-Python.assets/image-20220914101206734.png)
+![image-20221109032334907](./01-CITS1401-Computational-Thinking-with-Python.assets/image-20221109032334907.png)
 
-![image-20220914101420886](./01-CITS1401-Computational-Thinking-with-Python.assets/image-20220914101420886.png)
+![image-20221109032346865](./01-CITS1401-Computational-Thinking-with-Python.assets/image-20221109032346865.png)
 
 ```python
 from pprint import pprint
@@ -2551,4 +2551,4 @@ Your program can assume the following:
 - The **main()** function will always be provided with valid input parameters.
 - The formula for standard deviation and for calculating cosine similarity can be found at the end of the project sheet.
 
-![image-20220908182040558](./01-CITS1401-Computational-Thinking-with-Python.assets/image-20220908182040558.png)
+![image-20221109032201572](./01-CITS1401-Computational-Thinking-with-Python.assets/image-20221109032201572.png)
