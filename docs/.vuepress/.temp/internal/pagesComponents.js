@@ -11,16 +11,16 @@ export const pagesComponents = {
   "v-0df63ee0": defineAsyncComponent(() => import(/* webpackChunkName: "v-0df63ee0" */"/Users/huangjiabao/GitHub/WebSite/ShuaiShao20010902.github.io/docs/.vuepress/.temp/pages/Patrick/03-CITS1401-Computational-Thinking-wit-Python.html.vue")),
   // path: /archives/491.html
   "v-69c1cc92": defineAsyncComponent(() => import(/* webpackChunkName: "v-69c1cc92" */"/Users/huangjiabao/GitHub/WebSite/ShuaiShao20010902.github.io/docs/.vuepress/.temp/pages/archives/491.html.vue")),
-  // path: /blog/Number-System/Number-System-Conversion.html
-  "v-40263ef9": defineAsyncComponent(() => import(/* webpackChunkName: "v-40263ef9" */"/Users/huangjiabao/GitHub/WebSite/ShuaiShao20010902.github.io/docs/.vuepress/.temp/pages/blog/Number-System/Number-System-Conversion.html.vue")),
-  // path: /blog/Number-System/Number-System.html
-  "v-8bfc1954": defineAsyncComponent(() => import(/* webpackChunkName: "v-8bfc1954" */"/Users/huangjiabao/GitHub/WebSite/ShuaiShao20010902.github.io/docs/.vuepress/.temp/pages/blog/Number-System/Number-System.html.vue")),
-  // path: /blog/The-public-class/01-%E5%88%9D%E8%AF%86Kitten.html
-  "v-7bbe7000": defineAsyncComponent(() => import(/* webpackChunkName: "v-7bbe7000" */"/Users/huangjiabao/GitHub/WebSite/ShuaiShao20010902.github.io/docs/.vuepress/.temp/pages/blog/The-public-class/01-初识Kitten.html.vue")),
   // path: /blog/crawler/01-regex01.html
   "v-b73726a4": defineAsyncComponent(() => import(/* webpackChunkName: "v-b73726a4" */"/Users/huangjiabao/GitHub/WebSite/ShuaiShao20010902.github.io/docs/.vuepress/.temp/pages/blog/crawler/01-regex01.html.vue")),
   // path: /blog/crawler/02-baidu.html
   "v-3ef9c8cc": defineAsyncComponent(() => import(/* webpackChunkName: "v-3ef9c8cc" */"/Users/huangjiabao/GitHub/WebSite/ShuaiShao20010902.github.io/docs/.vuepress/.temp/pages/blog/crawler/02-baidu.html.vue")),
+  // path: /blog/The-public-class/01-%E5%88%9D%E8%AF%86Kitten.html
+  "v-7bbe7000": defineAsyncComponent(() => import(/* webpackChunkName: "v-7bbe7000" */"/Users/huangjiabao/GitHub/WebSite/ShuaiShao20010902.github.io/docs/.vuepress/.temp/pages/blog/The-public-class/01-初识Kitten.html.vue")),
+  // path: /blog/Number-System/Number-System-Conversion.html
+  "v-40263ef9": defineAsyncComponent(() => import(/* webpackChunkName: "v-40263ef9" */"/Users/huangjiabao/GitHub/WebSite/ShuaiShao20010902.github.io/docs/.vuepress/.temp/pages/blog/Number-System/Number-System-Conversion.html.vue")),
+  // path: /blog/Number-System/Number-System.html
+  "v-8bfc1954": defineAsyncComponent(() => import(/* webpackChunkName: "v-8bfc1954" */"/Users/huangjiabao/GitHub/WebSite/ShuaiShao20010902.github.io/docs/.vuepress/.temp/pages/blog/Number-System/Number-System.html.vue")),
   // path: /blog/vuepress/01.html
   "v-8729014c": defineAsyncComponent(() => import(/* webpackChunkName: "v-8729014c" */"/Users/huangjiabao/GitHub/WebSite/ShuaiShao20010902.github.io/docs/.vuepress/.temp/pages/blog/vuepress/01.html.vue")),
   // path: /blog/vuepress/02.html
@@ -105,18 +105,6 @@ export const pagesComponents = {
   "v-a9e37428": defineAsyncComponent(() => import(/* webpackChunkName: "v-a9e37428" */"/Users/huangjiabao/GitHub/WebSite/ShuaiShao20010902.github.io/docs/.vuepress/.temp/pages/category/gitbook/index.html.vue")),
   // path: /tag/gitbook/
   "v-52d10bbc": defineAsyncComponent(() => import(/* webpackChunkName: "v-52d10bbc" */"/Users/huangjiabao/GitHub/WebSite/ShuaiShao20010902.github.io/docs/.vuepress/.temp/pages/tag/gitbook/index.html.vue")),
-  // path: /category/number-system/
-  "v-e89d3118": defineAsyncComponent(() => import(/* webpackChunkName: "v-e89d3118" */"/Users/huangjiabao/GitHub/WebSite/ShuaiShao20010902.github.io/docs/.vuepress/.temp/pages/category/number-system/index.html.vue")),
-  // path: /tag/number-system/
-  "v-19141b2a": defineAsyncComponent(() => import(/* webpackChunkName: "v-19141b2a" */"/Users/huangjiabao/GitHub/WebSite/ShuaiShao20010902.github.io/docs/.vuepress/.temp/pages/tag/number-system/index.html.vue")),
-  // path: /category/number-system-conversion/
-  "v-dc9989b2": defineAsyncComponent(() => import(/* webpackChunkName: "v-dc9989b2" */"/Users/huangjiabao/GitHub/WebSite/ShuaiShao20010902.github.io/docs/.vuepress/.temp/pages/category/number-system-conversion/index.html.vue")),
-  // path: /tag/number-system-conversion/
-  "v-3c038c9e": defineAsyncComponent(() => import(/* webpackChunkName: "v-3c038c9e" */"/Users/huangjiabao/GitHub/WebSite/ShuaiShao20010902.github.io/docs/.vuepress/.temp/pages/tag/number-system-conversion/index.html.vue")),
-  // path: /category/%E5%85%AC%E7%9B%8A/
-  "v-b34fc48c": defineAsyncComponent(() => import(/* webpackChunkName: "v-b34fc48c" */"/Users/huangjiabao/GitHub/WebSite/ShuaiShao20010902.github.io/docs/.vuepress/.temp/pages/category/公益/index.html.vue")),
-  // path: /tag/%E5%85%AC%E7%9B%8A/
-  "v-5f816878": defineAsyncComponent(() => import(/* webpackChunkName: "v-5f816878" */"/Users/huangjiabao/GitHub/WebSite/ShuaiShao20010902.github.io/docs/.vuepress/.temp/pages/tag/公益/index.html.vue")),
   // path: /category/crawler/
   "v-6f48009a": defineAsyncComponent(() => import(/* webpackChunkName: "v-6f48009a" */"/Users/huangjiabao/GitHub/WebSite/ShuaiShao20010902.github.io/docs/.vuepress/.temp/pages/category/crawler/index.html.vue")),
   // path: /tag/crawler/
@@ -125,6 +113,18 @@ export const pagesComponents = {
   "v-3087b5dc": defineAsyncComponent(() => import(/* webpackChunkName: "v-3087b5dc" */"/Users/huangjiabao/GitHub/WebSite/ShuaiShao20010902.github.io/docs/.vuepress/.temp/pages/category/百度收录小技巧/index.html.vue")),
   // path: /tag/%E7%99%BE%E5%BA%A6%E6%94%B6%E5%BD%95%E5%B0%8F%E6%8A%80%E5%B7%A7/
   "v-39598170": defineAsyncComponent(() => import(/* webpackChunkName: "v-39598170" */"/Users/huangjiabao/GitHub/WebSite/ShuaiShao20010902.github.io/docs/.vuepress/.temp/pages/tag/百度收录小技巧/index.html.vue")),
+  // path: /category/%E5%85%AC%E7%9B%8A/
+  "v-b34fc48c": defineAsyncComponent(() => import(/* webpackChunkName: "v-b34fc48c" */"/Users/huangjiabao/GitHub/WebSite/ShuaiShao20010902.github.io/docs/.vuepress/.temp/pages/category/公益/index.html.vue")),
+  // path: /tag/%E5%85%AC%E7%9B%8A/
+  "v-5f816878": defineAsyncComponent(() => import(/* webpackChunkName: "v-5f816878" */"/Users/huangjiabao/GitHub/WebSite/ShuaiShao20010902.github.io/docs/.vuepress/.temp/pages/tag/公益/index.html.vue")),
+  // path: /category/number-system/
+  "v-e89d3118": defineAsyncComponent(() => import(/* webpackChunkName: "v-e89d3118" */"/Users/huangjiabao/GitHub/WebSite/ShuaiShao20010902.github.io/docs/.vuepress/.temp/pages/category/number-system/index.html.vue")),
+  // path: /tag/number-system/
+  "v-19141b2a": defineAsyncComponent(() => import(/* webpackChunkName: "v-19141b2a" */"/Users/huangjiabao/GitHub/WebSite/ShuaiShao20010902.github.io/docs/.vuepress/.temp/pages/tag/number-system/index.html.vue")),
+  // path: /category/number-system-conversion/
+  "v-dc9989b2": defineAsyncComponent(() => import(/* webpackChunkName: "v-dc9989b2" */"/Users/huangjiabao/GitHub/WebSite/ShuaiShao20010902.github.io/docs/.vuepress/.temp/pages/category/number-system-conversion/index.html.vue")),
+  // path: /tag/number-system-conversion/
+  "v-3c038c9e": defineAsyncComponent(() => import(/* webpackChunkName: "v-3c038c9e" */"/Users/huangjiabao/GitHub/WebSite/ShuaiShao20010902.github.io/docs/.vuepress/.temp/pages/tag/number-system-conversion/index.html.vue")),
   // path: /category/vue/
   "v-65f6d381": defineAsyncComponent(() => import(/* webpackChunkName: "v-65f6d381" */"/Users/huangjiabao/GitHub/WebSite/ShuaiShao20010902.github.io/docs/.vuepress/.temp/pages/category/vue/index.html.vue")),
   // path: /tag/vue/

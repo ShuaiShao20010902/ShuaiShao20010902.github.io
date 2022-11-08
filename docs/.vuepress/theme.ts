@@ -3,11 +3,11 @@ import { zhNavbar } from "./navbar.js";
 import { zhSidebar } from "./sidebar.js";
 
 export default hopeTheme({
-  hostname: "https://bornforthis.cn/",
+  hostname: "https://aiycoj.cn/",
 
   author: {
-    name: "AndersonHJB",
-    url: "https://bornforthis.cn/",
+    name: "Patrick",
+    url: "https://aiycoj.cn/",
   },
 
   iconPrefix: "iconfont icon-",
@@ -16,12 +16,7 @@ export default hopeTheme({
 
   logo: "/aiyc.svg",
   // logo: "/img_home/logo_min.png",
-
-  // repo: "BornforthisHJB/BornforthisHJB.github.io",
-  // repo: "AndersonHJB/AndersonHJB.github.io",
-  repo: "AndersonHJB?tab=repositories",
-  // editLink: false,
-  // lastUpdated: true,
+  repo: "ShuaiShao20010902?tab=repositories",
 
   // docsDir: "docss",
 
