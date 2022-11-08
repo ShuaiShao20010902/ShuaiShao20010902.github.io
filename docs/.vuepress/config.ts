@@ -6,15 +6,24 @@ import { docsearchPlugin } from '@vuepress/plugin-docsearch';
 
 export default defineUserConfig({
   lang: "zh-CN",
-  title: "Patrick",
-  description: "个人网站",
+  title: "邵帅",
+  description: "邵帅",
   base: "/",
   // shouldPrefetch: false,
   head: [
+
     [
       "link", {
         rel: "shortcut icon",
         href: "/favicon.ico",
+      }
+    ],
+
+    [
+      "script",
+      { 
+        type: "text/javascript",
+        src: "/js/baidu.js"
       }
     ],
     [
@@ -22,11 +31,16 @@ export default defineUserConfig({
       {
         rel: "stylesheet",
         href: "//at.alicdn.com/t/font_2410206_mfj6e1vbwo.css",
+        // href: "/css/font_2410206_mfj6e1vbwo.css",
       },
     ],
   ],
   
   plugins: [
+    // commentPlugin({
+    //   pageSize: 10,
+    //   copyright: false,
+    // }),
 
     docsearchPlugin({
       // 你的选项
@@ -36,6 +50,15 @@ export default defineUserConfig({
       indexName: "bornforthis",
       placeholder: "搜索",
     }),
+    
+    // searchPlugin({
+    //   locales: {
+    //     "/": {
+    //       placeholder: "搜索",
+          
+    //     },
+    //   },
+    // }),
   ],
 
   theme,

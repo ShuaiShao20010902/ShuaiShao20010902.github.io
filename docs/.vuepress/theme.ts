@@ -6,7 +6,7 @@ export default hopeTheme({
   hostname: "https://aiycoj.cn/",
 
   author: {
-    name: "Patrick",
+    name: "邵帅",
     url: "https://aiycoj.cn/",
   },
 
@@ -14,30 +14,30 @@ export default hopeTheme({
   // iconAssets: "iconfont",
   iconAssets: "//at.alicdn.com/t/c/font_3426793_if7debkm2dg.css",
 
+  // logo: "/aiyc.svg",
   logo: "/img_home/logo_min.png",
-  repo: "ShuaiShao20010902?tab=repositories",
 
-  // docsDir: "docss",
-
-  // darkmode: "enable", // 强制深色模式
-  // darkmode: "switch",
+  // repo: "BornforthisHJB/BornforthisHJB.github.io",
+  // repo: "AndersonHJB/AndersonHJB.github.io",
+  repo: "AndersonHJB?tab=repositories",
   darkmode: "toggle",
 
   displayFooter: true,
 
   pageInfo: ["Author", "Original", "Date", "Category", "Tag", "ReadingTime"],
 
-  // blog: {
-  //   medias: {
-  //     GitHub: "https://github.com/AndersonHJB",
-  //     Gmail: "mailto:aiyuechuang@gmail.com",
-  //     QQ: "http://wpa.qq.com/msgrd?v=3&uin=1432803776&site=qq&menu=yes",
-  //     Youtube: "https://www.youtube.com/channel/UCT525Fk74w_l9Pk06OxkLxg",
-  //     Zhihu: "https://www.zhihu.com/people/aiyuechuang",
-  //   },
-  // },
+  blog: {
+    medias: {
+      // Email: "mailto:bornforthis@bornforthis.cn",
+      // Gitee: "https://gitee.com/huangjiabaoaiyc",
+      GitHub: "https://github.com/AndersonHJB",
+      // Gmail: "mailto:aiyuechuang@gmail.com",
+      // QQ: "http://wpa.qq.com/msgrd?v=3&uin=1432803776&site=qq&menu=yes",
+      // Youtube: "https://www.youtube.com/channel/UCT525Fk74w_l9Pk06OxkLxg",
+      // Zhihu: "https://www.zhihu.com/people/aiyuechuang",
+    },
+  },
 
-  footer: 'NoteBook',
 
   locales: {
     "/": {
@@ -47,29 +47,24 @@ export default hopeTheme({
       // sidebar
       sidebar: zhSidebar,
 
-      footer: 'NoteBook',
+      // footer: '长期招收编程一对一学员!微信:Jiabcdefh, <a href="https://beian.miit.gov.cn/" target="_blank">闽ICP备19021486号-6</a>',
 
       displayFooter: true,
 
       blog: {
-        name: "AI悦创",
+        name: "邵帅",
         avatar: "/me.jpeg",
-        description: "一个思考者",
+        description: "一个思考者,编程私教 h",
         intro: "/intro.md",
         articlePerPage: 6,
       },
       editLink: false,
-
-
     },
   },
 
   encrypt: {
     config: {
-      "/1v1/05-Patrick/": ["Patrick101", "aiyc"],
-      // "/column/Fifth_brother_photography_class/": "123123a",
-      // "/column/data-structure/": "123123a",
-      // "/column/web/": "123123a",
+      "/1v1/05-Patrick/": ["xxxxxx", "aiyc"],
     },
   },
 
@@ -102,14 +97,34 @@ export default hopeTheme({
        */
        provider: "Waline",
        serverURL: "https://comment.bornforthis.cn/",
-       reaction: true,
-
+      //  reaction: true,
+      reaction: [
+        '/Waline/tieba/tieba_agree.png',
+        '/Waline/tieba/tieba_sunglasses.png',
+        '/Waline/tieba/tieba_pick_nose.png',
+        '/Waline/tieba/tieba_sleep.png',
+        '/Waline/tieba/tieba_awkward.png',
+        // '/Waline/tieba/tieba_coffee.png',
+        '/Waline/tieba/tieba_cute.png',
+        // '/Waline/qq/qq_4.gif',
+        // '/Waline/qq/qq_alpaca.gif',
+        // '/Waline/qq/qq_bear2.gif',
+      ],
        comment: true, // 评论数统计
        pageview: true, // 浏览量统计
        copyright: false,
        dark: "auto",
+      //  emoji: [
+      //    'https://cdn.jsdelivr.net/gh/walinejs/emojis@1.0.0/qq',
+      //    'https://cdn.jsdelivr.net/gh/walinejs/emojis@1.0.0/weibo',
+      //    'https://cdn.jsdelivr.net/gh/walinejs/emojis@1.0.0/bilibili',
+      //    'https://cdn.jsdelivr.net/gh/walinejs/emojis@1.0.0/alus',
+      //    'https://cdn.jsdelivr.net/gh/walinejs/emojis@1.0.0/tieba',
+      //    'https://cdn.jsdelivr.net/gh/walinejs/emojis@1.0.0/tw-emoji',
+      //  ],
     },
     components: [
+      // "Badge",
       "PDF",
       "YouTube",
       "VideoPlayer",
@@ -165,7 +180,7 @@ export default hopeTheme({
     },
 
     copyright: {
-      author: "黄家宝|AI悦创",
+      author: "邵帅",
       global: true,
       triggerWords: 100,
       disableCopy: false,
