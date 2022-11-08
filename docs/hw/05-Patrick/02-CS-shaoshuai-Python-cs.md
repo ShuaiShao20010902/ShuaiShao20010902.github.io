@@ -4,10 +4,6 @@ icon: python
 time: 2022-10-13 11:02:24
 author: AI悦创
 isOriginal: true
-category: 
-    - Python 1v1
-tag:
-    - Python 1v1
 sticky: false
 star: false
 password: false
